@@ -1,14 +1,5 @@
 # Forms And Basic Associations Rails Lab
 
-## Objectives
-
-1. Populate select options based on association options.
-2. Assign a foreign key based on a select box value directly through mass assignment (`post[category_id]`).
-3. Define a `belongs_to` association writer.
-4. Build a form field that will delegate to a belongs\_to association writer (`post#category_name=`) through controller mass assignment.
-5. Define a `has_many` association writer.
-6. Build a form field that will delegate to a has\_many association writer (`owner#pet_names=`) through controller mass assignment.
-
 ## A song library
 
 In this lab, we're going to make a song library. Our data model looks like this:
@@ -40,3 +31,5 @@ The base models, controllers, and seed data have been provided for you. The asso
 There are feature tests!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/forms-and-basic-associations-rails-lab' title='Forms And Basic Associations Rails Lab'>Forms And Basic Associations Rails Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/forms-and-basic-associations-rails-lab'>Forms and Basic Associations Lab</a> on Learn.co and start learning to code for free.</p>
