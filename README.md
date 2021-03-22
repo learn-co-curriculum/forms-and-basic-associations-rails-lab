@@ -9,7 +9,7 @@
 
 In this lab, we're going to make a song library that helps record thoughts
 about various `Song`s. Our data model looks like this:
-
+<!-- 
 - `Artist`
   - has a `name` attribute (`String`)
   - has many `Song`s
@@ -23,7 +23,7 @@ about various `Song`s. Our data model looks like this:
   - has many `songs`
 - `Note`
   - has `content` attribute (`String`)
-  - belongs to a `Song`
+  - belongs to a `Song` -->
 
 ## Instructions
 
